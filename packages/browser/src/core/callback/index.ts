@@ -1,1 +1,1 @@
-export { invokeCallback, pTimeout } from '@tandem.team/cdp-analytics-core'
+export { invokeCallback, pTimeout } from '@the-mintable/cdp-analytics-core'

@@ -1,4 +1,4 @@
-import { ValidationError } from '@tandem.team/cdp-analytics-core'
+import { ValidationError } from '@the-mintable/cdp-analytics-core'
 
 export interface AnalyticsSettings {
   /**

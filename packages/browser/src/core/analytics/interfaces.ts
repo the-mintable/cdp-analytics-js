@@ -12,7 +12,7 @@ import type { Context } from '../context'
 import type { CustomerioEvent } from '../events'
 import type { Group, User } from '../user'
 import type { LegacyIntegration } from '../../plugins/ajs-destination/types'
-import { CoreAnalytics } from '@tandem.team/cdp-analytics-core'
+import { CoreAnalytics } from '@the-mintable/cdp-analytics-core'
 
 // we can define a contract because:
 // - it gives us a neat place to put all our typedocs (they end up being inherited by the class that implements them).

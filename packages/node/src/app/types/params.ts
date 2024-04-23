@@ -5,7 +5,7 @@ import type {
   EventProperties,
   Integrations,
   Timestamp,
-} from '@tandem.team/cdp-analytics-core'
+} from '@the-mintable/cdp-analytics-core'
 
 export type { GroupTraits, UserTraits }
 

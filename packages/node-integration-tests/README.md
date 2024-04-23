@@ -1,4 +1,4 @@
-# Integration Tests for @tandem.team/cdp-analytics-node
+# Integration Tests for @the-mintable/cdp-analytics-node
 
 ## Tests
 | Test Path                                       | Description                                                                                                                                       |

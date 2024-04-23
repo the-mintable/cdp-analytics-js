@@ -5,7 +5,7 @@ import { createTestAnalytics } from './test-helpers/create-test-analytics'
 import { isValidDate } from './test-helpers/is-valid-date'
 import { pick } from 'lodash'
 import nock from 'nock'
-import { CoreContext } from '@tandem.team/cdp-analytics-core'
+import { CoreContext } from '@the-mintable/cdp-analytics-core'
 
 const snapshotMatchers = {
   get batchEvent() {
@@ -137,7 +137,7 @@ describe('Method Smoke Tests', () => {
               "_metadata": Any<Object>,
               "context": Object {
                 "library": Object {
-                  "name": "@tandem.team/cdp-analytics-node",
+                  "name": "@the-mintable/cdp-analytics-node",
                   "version": Any<String>,
                 },
               },
@@ -172,7 +172,7 @@ describe('Method Smoke Tests', () => {
               "_metadata": Any<Object>,
               "context": Object {
                 "library": Object {
-                  "name": "@tandem.team/cdp-analytics-node",
+                  "name": "@the-mintable/cdp-analytics-node",
                   "version": Any<String>,
                 },
               },
@@ -205,7 +205,7 @@ describe('Method Smoke Tests', () => {
               "anonymousId": "foo",
               "context": Object {
                 "library": Object {
-                  "name": "@tandem.team/cdp-analytics-node",
+                  "name": "@the-mintable/cdp-analytics-node",
                   "version": Any<String>,
                 },
               },
@@ -239,7 +239,7 @@ describe('Method Smoke Tests', () => {
               "anonymousId": "foo",
               "context": Object {
                 "library": Object {
-                  "name": "@tandem.team/cdp-analytics-node",
+                  "name": "@the-mintable/cdp-analytics-node",
                   "version": Any<String>,
                 },
               },
@@ -270,7 +270,7 @@ describe('Method Smoke Tests', () => {
               "_metadata": Any<Object>,
               "context": Object {
                 "library": Object {
-                  "name": "@tandem.team/cdp-analytics-node",
+                  "name": "@the-mintable/cdp-analytics-node",
                   "version": Any<String>,
                 },
               },
@@ -304,7 +304,7 @@ describe('Method Smoke Tests', () => {
               "anonymousId": "foo",
               "context": Object {
                 "library": Object {
-                  "name": "@tandem.team/cdp-analytics-node",
+                  "name": "@the-mintable/cdp-analytics-node",
                   "version": Any<String>,
                 },
               },

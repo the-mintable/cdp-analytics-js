@@ -1,4 +1,4 @@
-import type { CorePlugin } from '@tandem.team/cdp-analytics-core'
+import type { CorePlugin } from '@the-mintable/cdp-analytics-core'
 import type { DestinationMiddlewareFunction } from '../../plugins/middleware'
 import type { Analytics } from '../analytics'
 import type { Context } from '../context'

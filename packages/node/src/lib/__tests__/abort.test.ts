@@ -1,7 +1,7 @@
 import { abortSignalAfterTimeout } from '../abort'
 import nock from 'nock'
 import { fetch } from '../fetch'
-import { sleep } from '@tandem.team/cdp-analytics-core'
+import { sleep } from '@the-mintable/cdp-analytics-core'
 
 describe(abortSignalAfterTimeout, () => {
   const HOST = 'https://foo.com'

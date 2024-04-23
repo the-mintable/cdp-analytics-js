@@ -1,4 +1,4 @@
-import { EventFactory } from '@tandem.team/cdp-analytics-core'
+import { EventFactory } from '@the-mintable/cdp-analytics-core'
 import { createMessageId } from '../lib/get-message-id'
 import { CustomerioEvent } from './types'
 

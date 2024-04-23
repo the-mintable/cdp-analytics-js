@@ -1,6 +1,6 @@
 // create a derived class since we may want to add node specific things to Context later
 
-import { CoreContext } from '@tandem.team/cdp-analytics-core'
+import { CoreContext } from '@the-mintable/cdp-analytics-core'
 import { CustomerioEvent } from './types'
 
 // While this is not a type, it is a definition

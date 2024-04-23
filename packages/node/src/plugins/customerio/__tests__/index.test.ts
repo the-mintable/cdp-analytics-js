@@ -9,7 +9,7 @@ import {
 import { createConfiguredNodePlugin } from '../index'
 import { PublisherProps } from '../publisher'
 import { Context } from '../../../app/context'
-import { Emitter } from '@tandem.team/cdp-analytics-core'
+import { Emitter } from '@the-mintable/cdp-analytics-core'
 import { assertHttpRequestEmittedEvent } from '../../../__tests__/test-helpers/assert-shape'
 
 let emitter: Emitter
@@ -24,7 +24,7 @@ const bodyPropertyMatchers = {
   _metadata: expect.any(Object),
   context: {
     library: {
-      name: '@tandem.team/cdp-analytics-node',
+      name: '@the-mintable/cdp-analytics-node',
       version: expect.any(String),
     },
   },

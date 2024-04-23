@@ -3,13 +3,13 @@ Customer.io Data Pipelines analytics client for Node.js.
 ## Installation
 
 ```
-npm install @tandem.team/cdp-analytics-node
+npm install @the-mintable/cdp-analytics-node
 ```
 
 ## Usage
 
 ```ts
-import { Analytics } from '@tandem.team/cdp-analytics-node'
+import { Analytics } from '@the-mintable/cdp-analytics-node'
 
 // instantiation
 const analytics = new Analytics({ writeKey: '<MY_WRITE_KEY>' });
@@ -24,7 +24,7 @@ analytics.identify({
 If you're using a [different data center](https://customer.io/docs/accounts-and-workspaces/data-centers/) such as our EU region, you can specify an alternate endpoint:
 
 ```ts
-import { Analytics } from '@tandem.team/cdp-analytics-node'
+import { Analytics } from '@the-mintable/cdp-analytics-node'
 
 // instantiation
 const analytics = new Analytics({
@@ -43,4 +43,4 @@ The links below contain more detailed documentation on how to use this library:
 
 * [Documentation](https://customer.io/docs/cdp/sources/connections/servers/node/)
 * [Specs](https://customer.io/docs/cdp/sources/source-spec/source-events/)
-* [npm](https://www.npmjs.com/package/@tandem.team/cdp-analytics-node)
+* [npm](https://www.npmjs.com/package/@the-mintable/cdp-analytics-node)

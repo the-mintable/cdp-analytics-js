@@ -13,7 +13,7 @@ import {
 import type { FormArgs, LinkArgs } from '../auto-track'
 import { isOffline } from '../connection'
 import { Context } from '../context'
-import { dispatch, Emitter } from '@tandem.team/cdp-analytics-core'
+import { dispatch, Emitter } from '@the-mintable/cdp-analytics-core'
 import {
   Callback,
   EventFactory,

@@ -1,4 +1,4 @@
-import { CoreContext } from '@tandem.team/cdp-analytics-core'
+import { CoreContext } from '@the-mintable/cdp-analytics-core'
 
 class TestCtx extends CoreContext { }
 

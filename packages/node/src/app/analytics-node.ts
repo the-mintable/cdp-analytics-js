@@ -2,7 +2,7 @@ import {
   CoreAnalytics,
   bindAll,
   pTimeout,
-} from '@tandem.team/cdp-analytics-core'
+} from '@the-mintable/cdp-analytics-core'
 import { AnalyticsSettings, validateSettings } from './settings'
 import { version } from '../generated/version'
 import { createConfiguredNodePlugin } from '../plugins/customerio'

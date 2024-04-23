@@ -1,4 +1,4 @@
-import { CoreEmitterContract, Emitter } from '@tandem.team/cdp-analytics-core'
+import { CoreEmitterContract, Emitter } from '@the-mintable/cdp-analytics-core'
 import { Context } from './context'
 import type { AnalyticsSettings } from './settings'
 import { CustomerioEvent } from './types'

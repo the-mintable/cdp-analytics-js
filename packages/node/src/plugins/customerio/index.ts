@@ -6,7 +6,7 @@ import { Context } from '../../app/context'
 import { NodeEmitter } from '../../app/emitter'
 
 function normalizeEvent(ctx: Context) {
-  ctx.updateEvent('context.library.name', '@tandem.team/cdp-analytics-node')
+  ctx.updateEvent('context.library.name', '@the-mintable/cdp-analytics-node')
   ctx.updateEvent('context.library.version', version)
   const runtime = detectRuntime()
   if (runtime === 'node') {

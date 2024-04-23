@@ -822,7 +822,7 @@ __metadata:
   dependencies:
     "@internal/config": "workspace:^"
     "@playwright/test": ^1.28.1
-    "@tandem.team/cdp-analytics-browser": "workspace:^"
+    "@the-mintable/cdp-analytics-browser": "workspace:^"
     http-server: 14.1.1
     nock: ^13.2.9
     tslib: ^2.4.1
@@ -840,7 +840,7 @@ __metadata:
   resolution: "@internal/core-integration-tests@workspace:packages/core-integration-tests"
   dependencies:
     "@internal/config": "workspace:^"
-    "@tandem.team/cdp-analytics-core": "workspace:^"
+    "@the-mintable/cdp-analytics-core": "workspace:^"
   languageName: unknown
   linkType: soft
 
@@ -849,7 +849,7 @@ __metadata:
   resolution: "@internal/node-integration-tests@workspace:packages/node-integration-tests"
   dependencies:
     "@internal/test-helpers": "workspace:^"
-    "@tandem.team/cdp-analytics-node": "workspace:^"
+    "@the-mintable/cdp-analytics-node": "workspace:^"
     "@types/analytics-node": ^3.1.9
     "@types/autocannon": ^7
     "@types/node": ^14
@@ -2685,9 +2685,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tandem.team/cdp-analytics-browser@workspace:*, @tandem.team/cdp-analytics-browser@workspace:packages/browser":
+"@the-mintable/cdp-analytics-browser@workspace:*, @the-mintable/cdp-analytics-browser@workspace:packages/browser":
   version: 0.0.0-use.local
-  resolution: "@tandem.team/cdp-analytics-browser@workspace:packages/browser"
+  resolution: "@the-mintable/cdp-analytics-browser@workspace:packages/browser"
   dependencies:
     "@internal/config": 0.0.0
     "@lukeed/uuid": ^2.0.0
@@ -2697,7 +2697,7 @@ __metadata:
     "@segment/facade": ^3.4.9
     "@segment/tsub": 1.0.1
     "@size-limit/preset-big-lib": ^7.0.8
-    "@tandem.team/cdp-analytics-core": 0.0.4
+    "@the-mintable/cdp-analytics-core": 0.0.4
     "@types/flat": ^5.0.1
     "@types/fs-extra": ^9.0.2
     "@types/jest-dev-server": ^5.0.0
@@ -2742,9 +2742,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@tandem.team/cdp-analytics-core@workspace:*, @tandem.team/cdp-analytics-core@workspace:packages/core":
+"@the-mintable/cdp-analytics-core@workspace:*, @the-mintable/cdp-analytics-core@workspace:packages/core":
   version: 0.0.0-use.local
-  resolution: "@tandem.team/cdp-analytics-core@workspace:packages/core"
+  resolution: "@the-mintable/cdp-analytics-core@workspace:packages/core"
   dependencies:
     "@lukeed/uuid": ^2.0.0
     dset: ^3.1.2
@@ -2752,13 +2752,13 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@tandem.team/cdp-analytics-node@workspace:*, @tandem.team/cdp-analytics-node@workspace:packages/node":
+"@the-mintable/cdp-analytics-node@workspace:*, @the-mintable/cdp-analytics-node@workspace:packages/node":
   version: 0.0.0-use.local
-  resolution: "@tandem.team/cdp-analytics-node@workspace:packages/node"
+  resolution: "@the-mintable/cdp-analytics-node@workspace:packages/node"
   dependencies:
     "@internal/config": 0.0.0
     "@lukeed/uuid": ^2.0.0
-    "@tandem.team/cdp-analytics-core": 0.0.4
+    "@the-mintable/cdp-analytics-core": 0.0.4
     "@types/node": ^14
     "@types/uuid": ^9
     buffer: ^6.0.3

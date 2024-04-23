@@ -1,5 +1,5 @@
 {
-  "name": "@tandem.team/cdp-analytics-node",
+  "name": "@the-mintable/cdp-analytics-node",
   "version": "0.0.4",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@lukeed/uuid": "^2.0.0",
-    "@tandem.team/cdp-analytics-core": "0.0.4",
+    "@the-mintable/cdp-analytics-core": "0.0.4",
     "buffer": "^6.0.3",
     "node-fetch": "^2.6.7",
     "tslib": "^2.4.1",

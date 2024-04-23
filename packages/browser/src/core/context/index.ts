@@ -4,7 +4,7 @@ import {
   ContextFailedDelivery,
   SerializedContext,
   CancelationOptions,
-} from '@tandem.team/cdp-analytics-core'
+} from '@the-mintable/cdp-analytics-core'
 import { CustomerioEvent } from '../events/interfaces'
 import { Stats } from '../stats'
 

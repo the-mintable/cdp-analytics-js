@@ -2,7 +2,7 @@ import { pickPrefix } from './pickPrefix'
 import { gracefulDecodeURIComponent } from './gracefulDecodeURIComponent'
 import { Analytics } from '../analytics'
 import { Context } from '../context'
-import { isPlainObject } from '@tandem.team/cdp-analytics-core'
+import { isPlainObject } from '@the-mintable/cdp-analytics-core'
 
 export interface QueryStringParams {
   [key: string]: string | null

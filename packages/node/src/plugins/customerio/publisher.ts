@@ -1,4 +1,4 @@
-import { backoff } from '@tandem.team/cdp-analytics-core'
+import { backoff } from '@the-mintable/cdp-analytics-core'
 import { abortSignalAfterTimeout } from '../../lib/abort'
 import type { Context } from '../../app/context'
 import { tryCreateFormattedUrl } from '../../lib/create-url'

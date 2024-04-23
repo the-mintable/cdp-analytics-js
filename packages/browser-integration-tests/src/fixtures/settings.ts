@@ -1,4 +1,4 @@
-import { LegacySettings } from '@tandem.team/cdp-analytics-browser'
+import { LegacySettings } from '@the-mintable/cdp-analytics-browser'
 
 type RemotePlugin = NonNullable<LegacySettings['remotePlugins']>[number]
 

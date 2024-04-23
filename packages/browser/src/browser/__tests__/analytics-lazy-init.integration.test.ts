@@ -1,4 +1,4 @@
-import { sleep } from '@tandem.team/cdp-analytics-core'
+import { sleep } from '@the-mintable/cdp-analytics-core'
 import unfetch from 'unfetch'
 import { AnalyticsBrowser } from '..'
 import { Analytics } from '../../core/analytics'

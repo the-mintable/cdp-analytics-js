@@ -14,6 +14,6 @@
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
     "@internal/config": "workspace:^",
-    "@tandem.team/cdp-analytics-core": "workspace:^"
+    "@the-mintable/cdp-analytics-core": "workspace:^"
   }
 }
