@@ -2,7 +2,7 @@ import { PriorityQueue } from '../../lib/priority-queue'
 import { PersistedPriorityQueue } from '../../lib/priority-queue/persisted'
 import { Context } from '../context'
 import { AnyBrowserPlugin } from '../plugin'
-import { CoreEventQueue } from '@customerio/cdp-analytics-core'
+import { CoreEventQueue } from '@joshtandemteam/cdp-analytics-core'
 
 export class EventQueue extends CoreEventQueue<Context, AnyBrowserPlugin> {
   constructor(priorityQueue?: PriorityQueue<Context>) {

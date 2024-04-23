@@ -25,12 +25,12 @@ jobs:
           node-version: 14
           cache: 'yarn'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@customerio'
+          scope: '@joshtandemteam'
 
       - name: Set Git Identity
         run: |
-          git config --global user.name "Customer.io"
-          git config --global user.email "win@customer.io"
+          git config --global user.name "tandem.team"
+          git config --global user.email "josh@tandem.team"
 
       - name: Install & Build
         run: |

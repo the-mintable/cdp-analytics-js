@@ -1,4 +1,4 @@
-import { CoreContext } from '@customerio/cdp-analytics-core'
+import { CoreContext } from '@joshtandemteam/cdp-analytics-core'
 
 class TestCtx extends CoreContext { }
 

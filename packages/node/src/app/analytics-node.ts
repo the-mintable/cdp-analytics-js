@@ -2,7 +2,7 @@ import {
   CoreAnalytics,
   bindAll,
   pTimeout,
-} from '@customerio/cdp-analytics-core'
+} from '@joshtandemteam/cdp-analytics-core'
 import { AnalyticsSettings, validateSettings } from './settings'
 import { version } from '../generated/version'
 import { createConfiguredNodePlugin } from '../plugins/customerio'

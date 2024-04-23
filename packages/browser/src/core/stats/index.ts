@@ -1,4 +1,4 @@
-import { CoreStats } from '@customerio/cdp-analytics-core'
+import { CoreStats } from '@joshtandemteam/cdp-analytics-core'
 import { MetricsOptions, RemoteMetrics } from './remote-metrics'
 
 let remoteMetrics: RemoteMetrics | undefined

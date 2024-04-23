@@ -13,7 +13,7 @@ import {
 import type { FormArgs, LinkArgs } from '../auto-track'
 import { isOffline } from '../connection'
 import { Context } from '../context'
-import { dispatch, Emitter } from '@customerio/cdp-analytics-core'
+import { dispatch, Emitter } from '@joshtandemteam/cdp-analytics-core'
 import {
   Callback,
   EventFactory,

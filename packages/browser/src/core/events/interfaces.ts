@@ -13,7 +13,7 @@ import {
   GroupTraits,
   UserTraits,
   Traits,
-} from '@customerio/cdp-analytics-core'
+} from '@joshtandemteam/cdp-analytics-core'
 
 export interface Options extends CoreOptions { }
 

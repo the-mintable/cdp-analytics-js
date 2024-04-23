@@ -13,7 +13,7 @@
   },
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
-    "@customerio/cdp-analytics-core": "workspace:^",
-    "@internal/config": "workspace:^"
+    "@internal/config": "workspace:^",
+    "@joshtandemteam/cdp-analytics-core": "workspace:^"
   }
 }

@@ -1,4 +1,4 @@
-import { sleep } from '@customerio/cdp-analytics-core'
+import { sleep } from '@joshtandemteam/cdp-analytics-core'
 import unfetch from 'unfetch'
 import { AnalyticsBrowser } from '..'
 import { Analytics } from '../../core/analytics'

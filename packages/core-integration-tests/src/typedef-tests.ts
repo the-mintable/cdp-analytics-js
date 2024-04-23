@@ -1,4 +1,4 @@
-import { Traits, CoreExtraContext } from '@customerio/cdp-analytics-core'
+import { Traits, CoreExtraContext } from '@joshtandemteam/cdp-analytics-core'
 
 class TestClass {
   name = 'hello'

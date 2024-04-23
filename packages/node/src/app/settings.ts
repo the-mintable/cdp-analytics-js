@@ -1,4 +1,4 @@
-import { ValidationError } from '@customerio/cdp-analytics-core'
+import { ValidationError } from '@joshtandemteam/cdp-analytics-core'
 
 export interface AnalyticsSettings {
   /**

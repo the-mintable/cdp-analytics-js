@@ -4,7 +4,7 @@ import {
   ContextFailedDelivery,
   SerializedContext,
   CancelationOptions,
-} from '@customerio/cdp-analytics-core'
+} from '@joshtandemteam/cdp-analytics-core'
 import { CustomerioEvent } from '../events/interfaces'
 import { Stats } from '../stats'
 

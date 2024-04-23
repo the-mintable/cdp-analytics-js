@@ -1,4 +1,4 @@
-# Integration Tests for @customerio/cdp-analytics-node
+# Integration Tests for @joshtandemteam/cdp-analytics-node
 
 ## Tests
 | Test Path                                       | Description                                                                                                                                       |

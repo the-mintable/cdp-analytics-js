@@ -1,1 +1,1 @@
-export { invokeCallback, pTimeout } from '@customerio/cdp-analytics-core'
+export { invokeCallback, pTimeout } from '@joshtandemteam/cdp-analytics-core'

@@ -1,5 +1,5 @@
 {
-  "name": "@customerio/cdp-analytics-core",
+  "name": "@joshtandemteam/cdp-analytics-core",
   "version": "0.0.4",
   "license": "MIT",
   "main": "./dist/cjs/index.js",

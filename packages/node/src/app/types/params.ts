@@ -5,7 +5,7 @@ import type {
   EventProperties,
   Integrations,
   Timestamp,
-} from '@customerio/cdp-analytics-core'
+} from '@joshtandemteam/cdp-analytics-core'
 
 export type { GroupTraits, UserTraits }
 

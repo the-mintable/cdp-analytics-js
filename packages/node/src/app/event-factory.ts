@@ -1,4 +1,4 @@
-import { EventFactory } from '@customerio/cdp-analytics-core'
+import { EventFactory } from '@joshtandemteam/cdp-analytics-core'
 import { createMessageId } from '../lib/get-message-id'
 import { CustomerioEvent } from './types'
 

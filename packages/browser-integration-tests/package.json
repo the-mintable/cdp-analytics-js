@@ -17,8 +17,8 @@
   },
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
-    "@customerio/cdp-analytics-browser": "workspace:^",
     "@internal/config": "workspace:^",
+    "@joshtandemteam/cdp-analytics-browser": "workspace:^",
     "@playwright/test": "^1.28.1",
     "http-server": "14.1.1",
     "nock": "^13.2.9",

@@ -1,6 +1,6 @@
 import { Group, Identify, Track, Page, Alias } from '@segment/facade'
 import { Analytics } from '../../core/analytics'
-import { Emitter } from '@customerio/cdp-analytics-core'
+import { Emitter } from '@joshtandemteam/cdp-analytics-core'
 import { User } from '../../core/user'
 
 export interface LegacyIntegration extends Emitter {
