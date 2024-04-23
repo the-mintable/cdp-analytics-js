@@ -1,4 +1,4 @@
-import { Integrations } from '@joshtandemteam/cdp-analytics-core'
+import { Integrations } from '@tandem.team/cdp-analytics-core'
 import { LegacyIntegrationConfiguration } from '../..'
 
 export const isInstallableIntegration = (

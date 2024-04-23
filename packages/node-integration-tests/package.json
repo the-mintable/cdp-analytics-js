@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@internal/test-helpers": "workspace:^",
-    "@joshtandemteam/cdp-analytics-node": "workspace:^",
+    "@tandem.team/cdp-analytics-node": "workspace:^",
     "@types/analytics-node": "^3.1.9",
     "@types/autocannon": "^7",
     "@types/node": "^14",

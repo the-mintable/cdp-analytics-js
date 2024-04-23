@@ -18,8 +18,8 @@
   "packageManager": "yarn@3.2.1",
   "devDependencies": {
     "@internal/config": "workspace:^",
-    "@joshtandemteam/cdp-analytics-browser": "workspace:^",
     "@playwright/test": "^1.28.1",
+    "@tandem.team/cdp-analytics-browser": "workspace:^",
     "http-server": "14.1.1",
     "nock": "^13.2.9",
     "tslib": "^2.4.1"

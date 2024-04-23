@@ -1,5 +1,5 @@
 {
-  "name": "@joshtandemteam/cdp-analytics-core",
+  "name": "@tandem.team/cdp-analytics-core",
   "version": "0.0.4",
   "license": "MIT",
   "main": "./dist/cjs/index.js",

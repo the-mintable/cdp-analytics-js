@@ -1,4 +1,4 @@
-import { Analytics } from '@joshtandemteam/cdp-analytics-node'
+import { Analytics } from '@tandem.team/cdp-analytics-node'
 import { startServer } from '../server/server'
 import { trackEventSmall } from '../server/fixtures'
 

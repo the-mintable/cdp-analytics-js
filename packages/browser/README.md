@@ -3,13 +3,13 @@ Customer.io Data Pipelines analytics client for browsers.
 ## Installation
 
 ```
-npm install @joshtandemteam/cdp-analytics-browser
+npm install @tandem.team/cdp-analytics-browser
 ```
 
 ## Usage
 
 ```ts
-import { AnalyticsBrowser } from '@joshtandemteam/cdp-analytics-browser'
+import { AnalyticsBrowser } from '@tandem.team/cdp-analytics-browser'
 
 const analytics = AnalyticsBrowser.load({ writeKey: '<YOUR_WRITE_KEY>' })
 
@@ -25,7 +25,7 @@ document.body?.addEventListener('click', () => {
 If you're in our [EU data center](https://customer.io/docs/accounts-and-workspaces/data-centers/) you will need to specify an alternate endpoint:
 
 ```ts
-import { AnalyticsBrowser } from '@joshtandemteam/cdp-analytics-browser'
+import { AnalyticsBrowser } from '@tandem.team/cdp-analytics-browser'
 
 const analytics = AnalyticsBrowser.load({
   cdnURL: 'https://cdp-eu.customer.io',

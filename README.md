@@ -2,5 +2,5 @@
 
 ## Packages
 
-- [@joshtandemteam/cdp-analytics-browser](packages/browser#readme): SDK for **web browsers**
-- [@joshtandemteam/cdp-analytics-node](packages/node#readme): SDK for **Node.js**
+- [@tandem.team/cdp-analytics-browser](packages/browser#readme): SDK for **web browsers**
+- [@tandem.team/cdp-analytics-node](packages/node#readme): SDK for **Node.js**

@@ -13,7 +13,7 @@ import {
   GroupTraits,
   UserTraits,
   Traits,
-} from '@joshtandemteam/cdp-analytics-core'
+} from '@tandem.team/cdp-analytics-core'
 
 export interface Options extends CoreOptions { }
 

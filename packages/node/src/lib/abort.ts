@@ -1,7 +1,7 @@
 /**
  * use non-native event emitter for the benefit of non-node runtimes like CF workers.
  */
-import { Emitter } from '@joshtandemteam/cdp-analytics-core'
+import { Emitter } from '@tandem.team/cdp-analytics-core'
 import { detectRuntime } from './env'
 
 /**

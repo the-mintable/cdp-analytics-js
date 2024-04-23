@@ -1,4 +1,4 @@
-import type { AnalyticsSnippet } from '@joshtandemteam/cdp-analytics-browser'
+import type { AnalyticsSnippet } from '@tandem.team/cdp-analytics-browser'
 
 declare global {
   interface Window {

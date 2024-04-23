@@ -1,7 +1,7 @@
 import { isOffline } from '../../core/connection'
 import { Context } from '../../core/context'
 import { Plugin } from '../../core/plugin'
-import { attempt } from '@joshtandemteam/cdp-analytics-core'
+import { attempt } from '@tandem.team/cdp-analytics-core'
 import { pWhile } from '../../lib/p-while'
 import { PriorityQueue } from '../../lib/priority-queue'
 

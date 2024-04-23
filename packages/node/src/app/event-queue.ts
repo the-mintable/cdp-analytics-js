@@ -1,4 +1,4 @@
-import { CoreEventQueue, PriorityQueue } from '@joshtandemteam/cdp-analytics-core'
+import { CoreEventQueue, PriorityQueue } from '@tandem.team/cdp-analytics-core'
 import type { Plugin } from '../app/types'
 import type { Context } from './context'
 

@@ -1,4 +1,4 @@
-import { CoreStats } from '@joshtandemteam/cdp-analytics-core'
+import { CoreStats } from '@tandem.team/cdp-analytics-core'
 import { MetricsOptions, RemoteMetrics } from './remote-metrics'
 
 let remoteMetrics: RemoteMetrics | undefined

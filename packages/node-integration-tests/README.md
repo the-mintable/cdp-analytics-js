@@ -1,4 +1,4 @@
-# Integration Tests for @joshtandemteam/cdp-analytics-node
+# Integration Tests for @tandem.team/cdp-analytics-node
 
 ## Tests
 | Test Path                                       | Description                                                                                                                                       |

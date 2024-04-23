@@ -1,4 +1,4 @@
-import { dispatch } from '@joshtandemteam/cdp-analytics-core'
+import { dispatch } from '@tandem.team/cdp-analytics-core'
 import type { NodeEmitter } from './emitter'
 import { Context } from './context'
 import { NodeEventQueue } from './event-queue'

@@ -6,7 +6,7 @@ import { isOffline, isOnline } from '../../core/connection'
 import { Context, ContextCancelation } from '../../core/context'
 import { isServer } from '../../core/environment'
 import { DestinationPlugin, Plugin } from '../../core/plugin'
-import { attempt } from '@joshtandemteam/cdp-analytics-core'
+import { attempt } from '@tandem.team/cdp-analytics-core'
 import { isPlanEventEnabled } from '../../lib/is-plan-event-enabled'
 import { mergedOptions } from '../../lib/merged-options'
 import { pWhile } from '../../lib/p-while'
@@ -24,7 +24,7 @@ import {
   unloadIntegration,
 } from './loader'
 import { LegacyIntegration, ClassicIntegrationSource } from './types'
-import { isPlainObject } from '@joshtandemteam/cdp-analytics-core'
+import { isPlainObject } from '@tandem.team/cdp-analytics-core'
 import {
   isDisabledIntegration as shouldSkipIntegration,
   isInstallableIntegration,

@@ -1,5 +1,5 @@
-import { default as AnalyticsDefaultImport } from '@joshtandemteam/cdp-analytics-node'
-import { Analytics as AnalyticsNamedImport } from '@joshtandemteam/cdp-analytics-node'
+import { default as AnalyticsDefaultImport } from '@tandem.team/cdp-analytics-node'
+import { Analytics as AnalyticsNamedImport } from '@tandem.team/cdp-analytics-node'
 
 {
   // test named imports vs default imports

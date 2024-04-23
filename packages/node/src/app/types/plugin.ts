@@ -1,4 +1,4 @@
-import type { CorePlugin } from '@joshtandemteam/cdp-analytics-core'
+import type { CorePlugin } from '@tandem.team/cdp-analytics-core'
 import type { Analytics } from '../analytics-node'
 import type { Context } from '../context'
 
