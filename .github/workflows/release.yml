@@ -33,7 +33,7 @@ jobs:
           node-version: 14
           cache: 'yarn'
           registry-url: 'https://registry.npmjs.org'
-          scope: '@joshtandemteam'
+          scope: '@tandem.team'
 
       - name: Install & Build
         run: |
@@ -67,7 +67,7 @@ jobs:
           node-version: 14
           cache: 'yarn'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@joshtandemteam'
+          scope: '@tandem.team'
 
       - name: Install & Build
         run: |
